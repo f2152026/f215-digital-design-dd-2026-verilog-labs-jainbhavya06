@@ -1,4 +1,3 @@
-
 // FA_Gate.v
 // Gate-level model of a 1-bit full adder, now with explicit gate delays.
 // From this task onward, every gate/assign you write in this lab should
